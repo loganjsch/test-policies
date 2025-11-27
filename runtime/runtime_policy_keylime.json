@@ -302978,6 +302978,9 @@
         ],
         "/home/loganschwarz/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/cargo": [
             "e60b4010303c19a131c058e3f054b4b3311433c4b2ee94ba8e09e165ff2a3b3b"
+        ],
+        "/home/loganschwarz/rust-keylime/target/debug/keylime_agent": [
+            "292c98c3e31da2623a6659bd7b2d1ef10a069515998f8b489fd8eedfc18790dc"
         ]
     },
     "excludes": [],
