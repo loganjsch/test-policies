@@ -302981,6 +302981,9 @@
         ],
         "/home/loganschwarz/rust-keylime/target/debug/keylime_agent": [
             "292c98c3e31da2623a6659bd7b2d1ef10a069515998f8b489fd8eedfc18790dc"
+        ],
+        "/etc/demo/esperanto_demo.sh": [
+            "196f60a809bdc3ab61293820d62ba20e73351787633da9eb02f4752e68a2349b"
         ]
     },
     "excludes": [],
