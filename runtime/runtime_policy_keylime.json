@@ -302983,15 +302983,15 @@
             "292c98c3e31da2623a6659bd7b2d1ef10a069515998f8b489fd8eedfc18790dc"
         ],
         "/etc/demo/esperanto_demo.sh": [
-            "196f60a809bdc3ab61293820d62ba20e73351787633da9eb02f4752e68a2349b"
+            "af0dd6b6e00ab18d613a4c51220e33295b9e929375eea134901a149d27385062"
         ]
     },
     "excludes": [],
     "keyrings": {},
     "ima": {
         "ignored_keyrings": [],
-        "dm_policy": null,
-        "log_hash_alg": "sha256"
+        "log_hash_alg": "sha1",
+        "dm_policy": null
     },
     "ima-buf": {},
     "verification-keys": ""
