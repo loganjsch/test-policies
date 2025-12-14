@@ -302991,8 +302991,8 @@
     "keyrings": {},
     "ima": {
         "ignored_keyrings": [],
-        "log_hash_alg": "sha1",
-        "dm_policy": null
+        "dm_policy": null,
+        "log_hash_alg": "sha1"
     },
     "ima-buf": {},
     "verification-keys": ""
