@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "version": 1,
+    "generator": 3,
+    "timestamp": "2026-03-24 03:20:05.762273"
+  },
+  "release": 0,
+  "digests": {
+    "boot_aggregate": [
+      "4fccd20103235ad141e6736860c27ea2ca65f7b9ffb20c374b7eecb1f9a06705"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio_ring.ko": [
+      "f160f76ce37b5a35ce662432ad48a1d7ba127d68f1db9bd45a68d5589e3f2479"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio.ko": [
+      "90c660b682ee2b857a6f0142ceaff99a11a4a71beb15224fe660869e6b8ce9a6"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio_pci_modern_dev.ko": [
+      "78d524f0729aa3e64322de5a8c4dafc9ab8c1c2c37c8f09db9b98c28e9265530"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio_pci_legacy_dev.ko": [
+      "75c88db0f827e248bf5c99c38c1c6d79c08b27052ed6ceceab5daf9879a89f33"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/crc32c-intel.ko": [
+      "e51781a8ee396a3f895c0fc2506e57711374138335a9d61151bef09f7b35efc2"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio_pci.ko": [
+      "aeacd1e90be84d04f7319f432707823359078ec87499416b97f9ffafbc7c93f9"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/scsi/scsi_common.ko": [
+      "9e225d59018953bd7551562bd0fb7914caeec1113cc0eab67f2cc43f8a5ee807"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/net/core/failover.ko": [
+      "9e177a3c8aeb62bcbd5c10c269e03fa58a0f928d21904aadf912b36d0555c469"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/net/net_failover.ko": [
+      "f34166cabf5abcefdf078f2a2a7b6b7f406b12e3ee211b8b2ee5a31d8a429df7"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/scsi/scsi_mod.ko": [
+      "137dfba22d554a304d8875123b119c99d906f4ef2ea01d526eaac7638b704d9b"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/net/virtio_net.ko": [
+      "94fc3152bc398d8d683fc1f3b169b74a22ab98a2a54e0e0242d279e4cf7ed44d"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/scsi/virtio_scsi.ko": [
+      "2eafb0a213b56b200cea5f708e72fa00f9a0d0e515092e78fe800004cf8c333a"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/scsi/sd_mod.ko": [
+      "6cee43ae0de11a26d1495da18068606c01503e9ba06197c35d689de67b1bfd39"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/autofs/autofs4.ko": [
+      "8f3ef076c50cdf83957c22032cafb39c2a467b5a24d8e0d3ae92af5323957ed9"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/net/netfilter/x_tables.ko": [
+      "fc594239f767da956f1448680628a67a79884dc70ec4bd3cdaa23d1c277828a3"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/net/ipv4/netfilter/ip_tables.ko": [
+      "0d97ee6c926ffcf97c55c85e2db7b3be29cb78c2e2f95801141e07792a990274"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/char/hw_random/virtio-rng.ko": [
+      "a083a4cc769c9af25dff406956f4ce8636d36185bc8c1c47148252268fabb5ec"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/efivarfs/efivarfs.ko": [
+      "168e3ea053f5e8346d2ddc9d01ed675de9c08ac67b361adc7698882b94747bbb"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/configfs/configfs.ko": [
+      "3bd89d37185a31c318f732ee7036420e2f1bc706b2162b17b454c7f398fd6e60"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/md/dm-mod.ko": [
+      "ce79c8acabd1ffa0b36503d4c766e8beb4772f63f9ae13a83bfc599298c7727a"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/firmware/efi/efi-pstore.ko": [
+      "2c0a386f8e00e7a40536a8f8a31c57ac6e814c5c3c3c0fefb9aec0c8ad8501b6"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/block/loop.ko": [
+      "4361cad60457da2e9be44b95a92afd6a7daf9a0850c1fef45aad4e3b4f6c1435"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/fuse/fuse.ko": [
+      "5b5b666d90fbbe3b0094722b700f1d3a5c9ab680a5157fb812c97b5f58ef9f1c"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/scsi/sg.ko": [
+      "57e725fb352412236c81575ab3eb2887f5e01c86c2fb089b700431222877bd6c"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/input/serio/serio_raw.ko": [
+      "08cdc0f9f502de0db3292a63ce24e37f3c5cef48fe358ac852f9f51fb019a04f"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/acpi/button.ko": [
+      "1001853c9b7d7be4666df399b6a72d070182c1dbf3c646ca3038031f10b86f0c"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/cpufreq/acpi-cpufreq.ko": [
+      "646197669906f93b0a5272200aeaa0e6ab4bcb53021cea1d003341c8cb214eec"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/input/evdev.ko": [
+      "71ec78b459437ec468d819f58f36b1a77c98d9c34e07fff41e44fe8a7a3299a0"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/misc/pvpanic/pvpanic.ko": [
+      "89845be9df9c69648e3d46cbd905c15381138c7228d0d7ce9298e0c9f749502b"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/virtio/virtio_balloon.ko": [
+      "4c4dbc2f12034d86ccf4ff83dd248185954970d90923d379f1952e9a673b3288"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/misc/pvpanic/pvpanic-mmio.ko": [
+      "0d2f2190120b40712d40d89428347ab04ec642a179c0dcdc98bea12dcef80f20"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/cpufreq/pcc-cpufreq.ko": [
+      "113af8efb6ee2b7af103c0939ac3ee262e8837a543b48ca71c2a0693ebb27daf"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/events/intel/intel-uncore.ko": [
+      "f99e72c89ce11ad435059080b0522a01487a122aa044d39a6e25cbb620a975dd"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/events/intel/intel-cstate.ko": [
+      "a30d511479d80d8e955de57737974eac2fd81af0962538ce0ba0417d5b5f4b3b"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/events/rapl.ko": [
+      "2a0279fdbf52401b331f895d0d38645e4b101f1ba829c2f988f190e5a410ccc8"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/crypto/cryptd.ko": [
+      "f285b7403873ef1c56b7d8d3f785ecc1f3910143c80c5a37d24f838e9177e64e"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/crypto/crypto_simd.ko": [
+      "a80950b2c2e6e5fd4c3d60c92dc03a8c7f779b0515107e7229ebeb5b41e8f7a8"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/aesni-intel.ko": [
+      "d7c43f0b104ac23e11bbf1f7ec44fc6b3d03b4c7368731714bd9325c9088f84f"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/fat/fat.ko": [
+      "b7ff84e8dbcfa12f8af494da967b95a964aea2597fc2eada8aa083d322229546"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/fat/vfat.ko": [
+      "6d2f7d0ffa4f201ccb86eca14a48273f1c034c066a759d1c5e267e8d0b3979eb"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/nls/nls_cp437.ko": [
+      "5d922eb7c370e4a9c5e674c74ea3634e2e977cb7877e4bd0b53cf8ce69b467c5"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/nls/nls_ascii.ko": [
+      "2d749aa662caf6223b7d9abd9fc16101384d439352eb404b6ef3c82d7db2e220"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/sha1-ssse3.ko": [
+      "f490ff0001316ab28cefb294db717f953211ff37782a5a80c9e78528a5961aad"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/sha256-ssse3.ko": [
+      "bf3bf29d46bbf44d2ccc8b3a285df546de6ac170ea40834c809293afe0b2957b"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/crypto/sha512_generic.ko": [
+      "73897023b07457551b40ed23362435f48a0041debc36238f5d4f4ee63b5c9880"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/sha512-ssse3.ko": [
+      "5ee95e6549aa79b4db0522e29cc2938a06a3cfc4141f0ff7715c76eb7c7be2c4"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/ghash-clmulni-intel.ko": [
+      "b1125258b013728ea6c2eba8a6f3551b0b0545a3a859115bed4c0a533feacd6d"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/crc32-pclmul.ko": [
+      "8234df11ac15548ae42cb964cfe995d272ad421d1a4952eae46625057769a3c6"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/fs/binfmt_misc.ko": [
+      "e2b42627846c38066568496167e3b3d0c1c0235e1cac60e0848b6e144fea9c7f"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/crypto/crct10dif-pclmul.ko": [
+      "1779fb85188b47dbe4cb3daee07e29a5a391b1be1b483f4b1acb8764a246edfb"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/arch/x86/platform/intel/iosf_mbi.ko": [
+      "6cd4ca8cfb082fb6dee349aa2f47aeb546c634d1721b9f63bdec7a988d4f4bad"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/powercap/intel_rapl_common.ko": [
+      "bf6e41269624744518fc615deff9996483dcc402dc5a948ae7c810fe538e2631"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/powercap/intel_rapl_msr.ko": [
+      "c28ee37e812f3db4101e81b08e7b28721889522e3c477fd7a0234cc4727a9995"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/drivers/nvme/host/nvme-fabrics.ko": [
+      "2c66d2ec8b417ffe38da45c64b96289538fc3e64f7d333ecd4e31825f1b69df9"
+    ],
+    "/usr/lib/modules/6.1.0-43-cloud-amd64/kernel/net/tls/tls.ko": [
+      "5fa936bada13c133d7462cc30898e667d0a84b959fe9312f01898d24d7a0785a"
+    ]
+  },
+  "excludes": [],
+  "keyrings": {},
+  "ima": {
+    "ignored_keyrings": [],
+    "log_hash_alg": "sha1",
+    "dm_policy": null
+  },
+  "ima-buf": {},
+  "verification-keys": ""
+}
